@@ -1,6 +1,6 @@
-NOTE: If there are duplicate contributions, the one on top will always be the current one.
+[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://webapp.faithfulpack.net/gallery.
 
-NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
+---
 
 Changelogs (Update D8.12)
 
