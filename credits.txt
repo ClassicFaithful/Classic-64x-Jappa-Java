@@ -1,3 +1,0 @@
-This is a live link and will be updated each time contributed textures are added:
-
-https://github.com/ClassicFaithful/64x-Jappa/blob/main/credits.txt
