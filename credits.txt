@@ -1,4 +1,4 @@
-[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://webapp.faithfulpack.net/gallery.
+[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://studio.faithfulpack.net/gallery.
 
 ---
 
@@ -55,7 +55,7 @@ Cherry Sign (Shaggy)
 Nether Star (ZapPack, Evorp)
 Bamboo Hanging Sign (FHLX)
 Torchflower Seeds (FHLX)
- 
+
 
 Changelogs (Update D8.10)
 
@@ -300,7 +300,7 @@ Scaffolding Side (Zeuselpro)
 Scaffolding Bottom (Zeuselpro)
 
 
-[Mob Effect]  
+[Mob Effect]
 Luck (TheOpWarrior208)
 Unluck (TheOpWarrior208)
 Bad Omen (TheOpWarior208) [Fixes]
@@ -335,7 +335,7 @@ Changelogs (Update D8.4)
 
 [Blocks]
 Lectern Top (HARYA_)
-Lectern Base (HARYA_) 
+Lectern Base (HARYA_)
 Lectern Sides (HARYA_)
 Lectern Front (HARYA_)
 Brewing Stand Base (HARYA_, FHLX)
@@ -438,7 +438,7 @@ Tripwire (FHLX)
 Tripwire Hook (FHLX)
 Target Side (HARYA_)
 Target Top (HARYA_)
-Hay Block Side (FHLX, HARYA_) 
+Hay Block Side (FHLX, HARYA_)
 Redstone Lamp (FHLX)
 Redstone Lamp On (FHLX)
 
@@ -1680,9 +1680,9 @@ Music Disc Stal (HiTeeN)
 Music Disc Strad (HiTeeN)
 Music Disc Wait (HiTeeN)
 Music Disc Ward (HiTeeN)
-Wheat Seeds (FHLX) 
+Wheat Seeds (FHLX)
 Melon Seeds (FHLX)
-Pumpkin Seeds (FHLX) 
+Pumpkin Seeds (FHLX)
 Wheat (FHLX)
 Leather (FHLX)
 Clay Ball (FHLX)
@@ -1998,7 +1998,7 @@ Bow (HiTeeN)
 Diamond Axe (HiTeeN)
 Diamond Hoe (HiTeeN)
 Diamond Pickaxe (HiTeeN)
-Diamond Shovel (HiTeeN
+Diamond Shovel (HiTeeN)
 Golden Axe (HiTeeN)
 Golden Hoe (HiTeeN)
 Golden Pickaxe (HiTeeN)
